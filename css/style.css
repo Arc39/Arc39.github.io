@@ -39,6 +39,11 @@
       
     }
     
+    #toolsImg{
+      
+      vertical-align:middle;
+      
+    }
     
   #future{
             background-color: #CBCCCC;
@@ -245,6 +250,13 @@
   width:100%;
 }
 
+#screenshot {
+  
+  height: 700px;
+  width: 400px;
+  
+}
+
 .navbar-brand {
   padding: 0px;
   height: 70px;
@@ -266,4 +278,8 @@
   -webkit-filter: blur(4px);
 }
 
-
+#middleFeature {
+  
+  padding-left: 200px;
+  
+}
