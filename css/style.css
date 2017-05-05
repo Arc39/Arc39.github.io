@@ -193,8 +193,6 @@
 #headingText {
   color: white;
   text-align: center;
-  padding-right: 10px;
-  padding-left: 300px;
   font-size: 250%;
   text-shadow: 2px 2px 6px #000000;
 }
@@ -202,15 +200,12 @@
 #headingText2 {
   color: white;
   text-align: center;
-  padding-left: 300px;
-  padding-right: 10px;
   font-size: 250%;
   text-shadow: 2px 2px 6px #000000;
 }
 
 #gplay {
-  padding-left: 300px;
-  padding-right: 10px;
+  text-align:center;
 }
 #gplaySpan {
   background:#888;
@@ -281,5 +276,11 @@
 #middleFeature {
   
   padding-left: 200px;
+  
+}
+
+#dlogo {
+  
+  margin-left: 10px;
   
 }
